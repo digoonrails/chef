@@ -1,0 +1,8 @@
+{
+  "user": {
+    "name": "ubuntu",
+    "password": "$1$kPwQfX71$tVcPKFgoGZN2x.73BiGG81",
+    "ls_color": true
+  },
+  "run_list": ["recipe[main]"]
+}
